@@ -1,0 +1,37 @@
+#index-error {
+	margin-top: 10px;
+}
+
+.table thead tr th {
+	background-color: #863359;
+	color: #FFF;
+	text-align: center;
+}
+
+.icons li a {
+	margin-left: 10px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.navbar-default {
+	margin-top: 60px !important;
+}
+
+/*==============================================
+    FOOTER STYLES     
+    =============================================*/
+	.footer {
+		background-color:#214761;
+		width:100%;
+		color:#fff;
+		padding:20px 50px 20px 50px;
+			padding-left:20px;
+	}
+	
+	
+		.footer > a, .footer>a:hover {
+			
+			color:#fff;
+		}
